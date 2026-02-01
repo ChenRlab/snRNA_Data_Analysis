@@ -4,3 +4,5 @@
     <span style="font-weight: bold; font-style: italic; text-decoration: underline;">
     </span>
 </div>
+This repository contains the analysis pipeline for single-nucleus RNA sequencing (snRNA-seq) data generated from mouse heart tissue. 
+The scripts provided here were used to process, analyze, and interpret the snRNA-seq data presented in the associated manuscript.
