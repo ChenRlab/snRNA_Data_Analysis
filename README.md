@@ -9,4 +9,4 @@ The scripts provided here were used to process, analyze, and interpret the snRNA
 
 ------
 ## Data availability
-The raw sequencing data are not publicly available but will be available from the corresponding author upon reasonable request after publication.
+The snRNA-seq data (GSE324668) have been deposited in the Gene Expression Omnibus (GEO) database. 
